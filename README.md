@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A passionate security and networking engineer from India</h3>
 
