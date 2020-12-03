@@ -17,6 +17,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luciferarm&show_icons=true" alt="luciferarm" /></p>
 
 <p align="center">
+
+<a href="https://dev.to/luciferarm">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rahul Maurya's DEV Profile" height="30" width="30">
+</a>  
 <a href="https://linkedin.com/in/rahulmauryas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahulmauryas" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/rahul maurya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rahul maurya" height="30" width="30" /></a>
 </p>
